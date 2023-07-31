@@ -1,0 +1,8 @@
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment19\assignment19\bin\Debug\assignment19.exe.config
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment19\assignment19\bin\Debug\assignment19.exe
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment19\assignment19\bin\Debug\assignment19.pdb
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment19\assignment19\obj\Debug\assignment19.csproj.AssemblyReference.cache
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment19\assignment19\obj\Debug\assignment19.csproj.SuggestedBindingRedirects.cache
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment19\assignment19\obj\Debug\assignment19.csproj.CoreCompileInputs.cache
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment19\assignment19\obj\Debug\assignment19.exe
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment19\assignment19\obj\Debug\assignment19.pdb
